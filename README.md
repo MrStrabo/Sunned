@@ -19,7 +19,7 @@ Note: This script does not get PAST history from SunPower.  It can only save the
   ````
 
 ## Prerequsites
-* Proxy setup to your PVS on your local network
+* Proxy setup to your PVS on your local network (https://github.com/MrStrabo/PVS5-6_Reverse_Proxy_Guide)
 * Python 3.11+
 * SQLite3 / PostreSQL 17
 
